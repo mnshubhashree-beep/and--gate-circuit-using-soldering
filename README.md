@@ -28,3 +28,4 @@ Procedure:
 
 Result:  
      The AND gate circuit was successfully assembled and soldered. The output obtained for different input combinations was verified with the AND gate truth table.  
+![Result](AND gate.jpeg)
